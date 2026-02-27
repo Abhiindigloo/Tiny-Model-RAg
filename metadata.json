@@ -1,0 +1,5 @@
+{
+  "name": "Indigloo AI Explorer",
+  "description": "A RAG-powered chat interface to explore and query content from indigloo.ai using Gemini's URL context capabilities.",
+  "requestFramePermissions": []
+}
